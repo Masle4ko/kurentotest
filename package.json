@@ -1,0 +1,10 @@
+{
+  "name": "kurento-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.15.4",
+    "kurento-client": "6.6.0",
+    "minimist": "1.2.0",
+    "socket.io": "^2.0.3"
+  }
+}
